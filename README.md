@@ -1,4 +1,17 @@
-# Sekrio
+----------------------------------- SEKIRO MOBILE GAME (ANDROID) ------------------------------------------------------
 
-Developed with Unreal Engine 5
-# Sekiro-Game
+
+* A TPP mobile where the player has to reach the top of the flag. 
+* When in range the green blip lights up.
+* Use Grapple points and climb the roofs of Castles and mountains.
+* Free to explore things around the map.
+* Pause and Info menus to how to get started with the game.
+
+**CONTROLS:-**
+
+**Left Control Stick** - To Move around the map.
+**Right Side Screen** - Camera Movement.
+**Jump Button** - Jump Sekiro
+**Grapple Button** - Grapple and Swing Sekiro
+
+NOTE - Please use Unreal Engine 5.0.1 if downloading and importing the project!
