@@ -14,4 +14,4 @@
 * **Jump Button** - Jump Sekiro
 * **Grapple Button** - Grapple and Swing Sekiro
 
-NOTE - Please use Unreal Engine 5.0.1 if downloading and importing the project!
+NOTE - This game is made in Unreal Engine 5.0.1!
