@@ -9,9 +9,9 @@
 
 **CONTROLS:-**
 
-**Left Control Stick** - To Move around the map.
-**Right Side Screen** - Camera Movement.
-**Jump Button** - Jump Sekiro
-**Grapple Button** - Grapple and Swing Sekiro
+* **Left Control Stick** - To Move around the map.
+* **Right Side Screen** - Camera Movement.
+* **Jump Button** - Jump Sekiro
+* **Grapple Button** - Grapple and Swing Sekiro
 
 NOTE - Please use Unreal Engine 5.0.1 if downloading and importing the project!
